@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Logi vlja</name>
+   <tag></tag>
+   <elementGuidId>b5e6daca-ab2b-42ab-bd40-6690e117c7db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sign-out-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sign-out-link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f183ba4-b58b-416e-96c1-9c88d3fea56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui</value>
+      <webElementGuid>52b28d57-78ce-4302-ab2a-1775abc97e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sign-out-link</value>
+      <webElementGuid>a186a68a-d3ea-4364-a9e1-95e88e216beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logi välja</value>
+      <webElementGuid>aad9c8a1-48ec-4f4d-8225-12edba016b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sign-out-link&quot;)</value>
+      <webElementGuid>95bb4df9-4cf6-4f94-a1a4-c8a9afdad9e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='sign-out-link']</value>
+      <webElementGuid>0d0e365c-892e-4b25-a5bb-7406631c4ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Töölaud'])[1]/following::div[3]</value>
+      <webElementGuid>4437d4c2-004f-4e0b-b653-256eef04f50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lisa uus tellimus'])[1]/preceding::div[2]</value>
+      <webElementGuid>a9b96f40-ec9f-4b3a-848d-aaf0420e218f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEGEMATA TÖÖD'])[1]/preceding::div[2]</value>
+      <webElementGuid>88ebe9a2-d502-4f9c-b92e-fd41225d46c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logi välja']/parent::*</value>
+      <webElementGuid>a701c257-e499-4ad2-9c6f-a604a2351b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>f55c1462-0682-4630-9eb4-75b4e5be85ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'sign-out-link' and (text() = 'Logi välja' or . = 'Logi välja')]</value>
+      <webElementGuid>4fa4c83a-cb83-4d3e-9e8c-203d1decb9d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
